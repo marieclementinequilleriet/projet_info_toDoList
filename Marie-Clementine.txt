@@ -1,0 +1,2 @@
+0/Test/Un gestionnaire de tâche pour le cours de C++/9 1 2020/0 0 0/21 2 2020/En cours/0/Urgent/Il faut réaliser la documentation et les exemples, mais je ne sais pas quoi faire comme exemples. Il faut que Basile crée ses tâches./
+1/Créer beaucoup de tâches/Cucoup de tâches avec différents statuts/22 2 2020/0 0 0/21 2 2020/En cours/0/Urgent/Je n'ai pas beaucoup d'inspiration désolée/
